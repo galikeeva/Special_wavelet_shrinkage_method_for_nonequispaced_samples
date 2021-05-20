@@ -1,4 +1,4 @@
-# special-wavelet-method
+# Special_wavelet_shrinkage_methof_for_nonequispaced_samples
 Diploma
 
 Специальный метод вейвлет-обработки для неравномерно распределеннных выборок
